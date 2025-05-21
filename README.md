@@ -20,7 +20,7 @@ Whether you're buying, flipping, or just staying informed, WebWeb gives you the 
 
 ## 🚀 How to Use
 
-1. **Run `main.exe`**  
+1. **Run `base.exe`**  
    Launch the app. No installation needed — it runs directly from the folder.
 
 2. **Search & Monitor**  
